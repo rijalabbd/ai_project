@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarot AI Reader</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3a0ca3',
+                        secondary: '#7209b7',
+                        tertiary: '#f72585',
+                        background: '#10002b',
+                        cardBg: '#240046',
+                        textLight: '#e0aaff',
+                    }
+                }
+            }
+        }
+    </script>
+    <link href="./styles.css" rel="stylesheet">
+</head>
+<body class="bg-background text-gray-100 min-h-screen">
+    <header class="bg-gradient-to-r from-primary to-secondary rounded-b-3xl shadow-lg mb-10">
+        <div class="container mx-auto px-4 py-8 text-center">
+            <h1 class="text-4xl font-bold text-white mb-2 drop-shadow-md">Tarot AI Reader</h1>
+            <p class="text-lg">Temukan wawasan dan bimbingan melalui kartu tarot dan AI</p>
+        </div>
+    </header>
+    
+    <div class="container mx-auto px-4 pb-10">
+        <div class="bg-cardBg rounded-xl p-6 mb-8 shadow-md">
+            <h2 class="text-2xl font-bold mb-3">Selamat Datang di Tarot AI Reader</h2>
+            <p>Tarot AI Reader menggabungkan kebijaksanaan kuno kartu tarot dengan teknologi AI modern untuk memberikan pembacaan yang personal dan mendalam. Pikirkan pertanyaan Anda, pilih jenis pembacaan, lalu klik kartu untuk mengungkap pesan yang tersembunyi bagi Anda.</p>
+        </div>
+        
+        <div class="flex flex-col items-center">
+            <div class="w-full max-w-2xl mb-6">
+                <textarea id="question" class="w-full p-4 bg-opacity-10 bg-white border-2 border-secondary rounded-lg text-white resize-y min-h-[100px] shadow-inner" placeholder="Masukkan pertanyaan atau fokus untuk pembacaan tarot Anda..."></textarea>
+            </div>
+            
+            <div class="flex flex-wrap justify-center gap-4 mb-8">
+                <button class="reading-option active bg-gradient-to-r from-secondary to-tertiary text-white rounded-lg px-6 py-3 shadow-md hover:-translate-y-1 hover:shadow-lg transition-all" data-cards="1">Kartu Tunggal</button>
+                <button class="reading-option bg-gradient-to-r from-secondary to-tertiary text-white rounded-lg px-6 py-3 shadow-md hover:-translate-y-1 hover:shadow-lg transition-all" data-cards="3">Pembacaan 3 Kartu</button>
+                <button class="reading-option bg-gradient-to-r from-secondary to-tertiary text-white rounded-lg px-6 py-3 shadow-md hover:-translate-y-1 hover:shadow-lg transition-all" data-cards="5">Pembacaan Celtic Cross</button>
+            </div>
+            
+            <button id="shuffle-button" class="bg-gradient-to-r from-tertiary to-secondary text-white rounded-full px-10 py-4 text-lg shadow-md hover:-translate-y-1 hover:shadow-lg transition-all">Kocok Kartu</button>
+            
+            <div class="flex flex-wrap justify-center gap-5 my-8" id="cards-area">
+                <!-- Kartu akan ditambahkan melalui JavaScript -->
+            </div>
+            
+            <div class="w-full max-w-3xl bg-cardBg rounded-xl p-6 mt-10 shadow-md hidden" id="result-container">
+                <h3 class="text-xl font-bold text-tertiary text-center mb-5">Interpretasi Pembacaan Tarot Anda</h3>
+                <div class="text-textLight leading-relaxed" id="result-content"></div>
+                <div class="text-center mt-8">
+                    <button id="new-reading" class="bg-gradient-to-r from-tertiary to-secondary text-white rounded-full px-10 py-4 text-lg shadow-md hover:-translate-y-1 hover:shadow-lg transition-all">Pembacaan Baru</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer class="text-center py-6 text-textLight">
+        <div class="container mx-auto px-4">
+            <p class="text-sm">© 2025 Tarot AI Reader. Dibuat untuk tujuan hiburan saja.</p>
+        </div>
+    </footer>
+    
+    <script src="./tarot-data.js"></script>
+    <script src="./app.js"></script>
+</body>
+</html>
