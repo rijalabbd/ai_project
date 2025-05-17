@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1657155822</mtime>
+    <size>42869</size>
+    <md5>aeef43d8445c760736d43c2b6a799549</md5>
+    <crc32>86cabd01</crc32>
+    <sha1>56c07e25f22b618d415a859c5572070fa7676cd2</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="major_arcana_chariot.png" source="original">
+    <mtime>1657155761</mtime>
+    <size>3546196</size>
+    <md5>b428a602c249ccd1e61af930dc90a806</md5>
+    <crc32>1c2cf3c9</crc32>
+    <sha1>c82efcdf9137ec97aed4e517eb8b598ff5102a5c</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_chariot_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_chariot.png</original>
+    <mtime>1657156360</mtime>
+    <size>9758</size>
+    <md5>dd738462186e3d89d001e36d9aedbaf6</md5>
+    <crc32>094096bb</crc32>
+    <sha1>2fb693fd33066b2c9b4a619c39d2ec2e409e02fc</sha1>
+  </file>
+  <file name="major_arcana_death.png" source="original">
+    <mtime>1657155780</mtime>
+    <size>3679673</size>
+    <md5>32dbc921368825227791b93577e1d2c9</md5>
+    <crc32>6a2fd09f</crc32>
+    <sha1>197bcd26bd315e8c158d92ac0957932a251f5692</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_death_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_death.png</original>
+    <mtime>1657156492</mtime>
+    <size>9675</size>
+    <md5>7f446b13566f5e6c3f58ed949f92f13e</md5>
+    <crc32>a483cdbf</crc32>
+    <sha1>f3c593f8969bd884aa27c75752dabe2b7b568b90</sha1>
+  </file>
+  <file name="major_arcana_devil.png" source="original">
+    <mtime>1657155784</mtime>
+    <size>3056005</size>
+    <md5>988e334518fa2f4162de66a7c6f94853</md5>
+    <crc32>744a95ec</crc32>
+    <sha1>ce2d608d904c41b6d03d8cc65c70ea2a63f3fa98</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_devil_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_devil.png</original>
+    <mtime>1657156373</mtime>
+    <size>9239</size>
+    <md5>877f8bf49e0c8fc304e04c931922ffb8</md5>
+    <crc32>3e58b114</crc32>
+    <sha1>71656f145d52932911cd7c62333a3b7e48226099</sha1>
+  </file>
+  <file name="major_arcana_emperor.png" source="original">
+    <mtime>1657155788</mtime>
+    <size>3815945</size>
+    <md5>cd2b16590e9bb108ac242f568d61ac5c</md5>
+    <crc32>3411ad23</crc32>
+    <sha1>df62bc4dd49af738e41d14179ca0435aacaf05e9</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_emperor_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_emperor.png</original>
+    <mtime>1657156380</mtime>
+    <size>8914</size>
+    <md5>bb0cac4f7643631d2dcad17f54204b0f</md5>
+    <crc32>98959b52</crc32>
+    <sha1>a7e9281d47e5dc3c363245f45df27f19b24cd363</sha1>
+  </file>
+  <file name="major_arcana_empress.png" source="original">
+    <mtime>1657155792</mtime>
+    <size>3825020</size>
+    <md5>bf183653f8d72996c352d682dea92834</md5>
+    <crc32>812a3017</crc32>
+    <sha1>a98e21baf4f91e0cbaec29f8c19303b6b645246c</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_empress_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_empress.png</original>
+    <mtime>1657156384</mtime>
+    <size>9811</size>
+    <md5>acc1f290a48eea26c61de529c3f31261</md5>
+    <crc32>b45223d3</crc32>
+    <sha1>30d05347d0af9185c8512d12ebd65ee7d663b1f3</sha1>
+  </file>
+  <file name="major_arcana_fool.png" source="original">
+    <mtime>1657155798</mtime>
+    <size>3395989</size>
+    <md5>9d39f448baa70f085685172a537c8be2</md5>
+    <crc32>6ac61de8</crc32>
+    <sha1>5bdd6c04b3bce4605c8a66b0a3e7e37b80b3d1db</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_fool_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_fool.png</original>
+    <mtime>1657156387</mtime>
+    <size>9252</size>
+    <md5>c16b905fa7e79bda90b931737b324c4c</md5>
+    <crc32>be958b48</crc32>
+    <sha1>c5e05b27a09b62fa537b42bfec6ec5a3c828e4b9</sha1>
+  </file>
+  <file name="major_arcana_fortune.png" source="original">
+    <mtime>1657155804</mtime>
+    <size>3778216</size>
+    <md5>1da1bf66afd7788fa1a36dbc29b9913c</md5>
+    <crc32>3c34dfa4</crc32>
+    <sha1>c008b15d4db7649f3e39180da5e7d478a20079fb</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_fortune_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_fortune.png</original>
+    <mtime>1657156389</mtime>
+    <size>9802</size>
+    <md5>ae41053ae6552981bb82e11a0b8691ec</md5>
+    <crc32>2ac7aaaf</crc32>
+    <sha1>15793326b210fe03f42935d005dbec84d52c78f2</sha1>
+  </file>
+  <file name="major_arcana_hanged.png" source="original">
+    <mtime>1657155808</mtime>
+    <size>3348695</size>
+    <md5>5542a9f4d14e6059c6376a12b075e28d</md5>
+    <crc32>1110f6a9</crc32>
+    <sha1>0e2fe9a1c6ec0376c7a2f04c43c1e508976da858</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_hanged_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_hanged.png</original>
+    <mtime>1657156392</mtime>
+    <size>7970</size>
+    <md5>e3aed609b86d738f167cf639cd8a192e</md5>
+    <crc32>e762464c</crc32>
+    <sha1>7ec812976b80cf5ff57dea198ec1a86857c7ca3d</sha1>
+  </file>
+  <file name="major_arcana_hermit.png" source="original">
+    <mtime>1657155812</mtime>
+    <size>2936149</size>
+    <md5>d524b049150adb5357d6510ce9851a0f</md5>
+    <crc32>8c4b299a</crc32>
+    <sha1>03ee873c66f495a88a47d483ac0049beec69c768</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_hermit_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_hermit.png</original>
+    <mtime>1657156363</mtime>
+    <size>7792</size>
+    <md5>02a548a8a3ea7d534acf7c847e0d5530</md5>
+    <crc32>6ccae8f9</crc32>
+    <sha1>4860bbc05a3d12f9a4ec626c400cfd954f0cebc8</sha1>
+  </file>
+  <file name="major_arcana_hierophant.png" source="original">
+    <mtime>1657155818</mtime>
+    <size>3623755</size>
+    <md5>a16365100b26388ef0157544d2f54923</md5>
+    <crc32>a940c192</crc32>
+    <sha1>18026969b2ad91a30167161a06fc6d5683782fa4</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_hierophant_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_hierophant.png</original>
+    <mtime>1657156401</mtime>
+    <size>9444</size>
+    <md5>b593acd5e5074da394906ddee8be8b05</md5>
+    <crc32>f45ebd6d</crc32>
+    <sha1>8147b8788bf518db48919b9a0bb5816dfba937ca</sha1>
+  </file>
+  <file name="major_arcana_judgement.png" source="original">
+    <mtime>1657155823</mtime>
+    <size>3868585</size>
+    <md5>5d121c7c8aa0dc9929f7902e4e1c27ad</md5>
+    <crc32>8b23c063</crc32>
+    <sha1>434d341a0084bf4d51a1c7d33e57192f9a6c8d93</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_judgement_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_judgement.png</original>
+    <mtime>1657156428</mtime>
+    <size>9937</size>
+    <md5>f8e347eebe1ebafa15ea57e4dc2ddd62</md5>
+    <crc32>51dd1ba4</crc32>
+    <sha1>c5c33cca15a36167d9987c7a82acc39282617794</sha1>
+  </file>
+  <file name="major_arcana_justice.png" source="original">
+    <mtime>1657155829</mtime>
+    <size>3598099</size>
+    <md5>931d956ae543ebce27539cd5c868e842</md5>
+    <crc32>0ae665c5</crc32>
+    <sha1>25e3809d3e0bf496b7328ccde7e406a41bcc2a20</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_justice_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_justice.png</original>
+    <mtime>1657156404</mtime>
+    <size>8820</size>
+    <md5>94612ad2afd33d59b55905705d944085</md5>
+    <crc32>ac5b5e6c</crc32>
+    <sha1>30e373c59fd76bb6d36b1dd499ae87b322aad427</sha1>
+  </file>
+  <file name="major_arcana_lovers.png" source="original">
+    <mtime>1657155833</mtime>
+    <size>4033459</size>
+    <md5>e0fa284ffb5d0189f0bf09ea0d3ddf2c</md5>
+    <crc32>95906c7a</crc32>
+    <sha1>76641a8e7cba362a310f68a328a747f779a5f224</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_lovers_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_lovers.png</original>
+    <mtime>1657156407</mtime>
+    <size>9789</size>
+    <md5>eaf115af16d5abf790d036d0977d53de</md5>
+    <crc32>2bd71c3e</crc32>
+    <sha1>922be7a91d5eccdcc3a644354d98421dabf18b2b</sha1>
+  </file>
+  <file name="major_arcana_magician.png" source="original">
+    <mtime>1657155837</mtime>
+    <size>3286400</size>
+    <md5>ceb28c6758f9427100aac5dc66164d29</md5>
+    <crc32>2a71a8b6</crc32>
+    <sha1>4294f76368fd7ae48e0e8f032e0604a6e8332c51</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_magician_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_magician.png</original>
+    <mtime>1657156410</mtime>
+    <size>9002</size>
+    <md5>bb362cb17606320900ca2257e97d7a50</md5>
+    <crc32>e55e46f7</crc32>
+    <sha1>c52766eaebfcd1370726792605a0a6aec110f7a5</sha1>
+  </file>
+  <file name="major_arcana_moon.png" source="original">
+    <mtime>1657155843</mtime>
+    <size>3546444</size>
+    <md5>e05ffd9fb1678d005f0d374baa1161f6</md5>
+    <crc32>bfa20cea</crc32>
+    <sha1>ee5a24be456da6cf4af50b2b643c1978ecdb44a8</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_moon_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_moon.png</original>
+    <mtime>1657156412</mtime>
+    <size>8858</size>
+    <md5>5de8f801f958d79a4c32bf595b549735</md5>
+    <crc32>4862b86c</crc32>
+    <sha1>e08d67fcdc7ba568cca8dd428cb446cbce685026</sha1>
+  </file>
+  <file name="major_arcana_priestess.png" source="original">
+    <mtime>1657155852</mtime>
+    <size>3608595</size>
+    <md5>0172a8d945141da64f0e0209aba407bf</md5>
+    <crc32>7d8e3769</crc32>
+    <sha1>63d4d78ca84039a2d623d532e04dac1d52632295</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_priestess_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_priestess.png</original>
+    <mtime>1657156415</mtime>
+    <size>9477</size>
+    <md5>59f4b2638be16ccc62a6edf8cbfe94ea</md5>
+    <crc32>0e0dbb2d</crc32>
+    <sha1>d73b654b14b263bc0b6c2ec2a2d1c557b3a325bb</sha1>
+  </file>
+  <file name="major_arcana_star.png" source="original">
+    <mtime>1657155856</mtime>
+    <size>3517584</size>
+    <md5>fd10254a6d2d83c95f1a0a2561c69608</md5>
+    <crc32>cf069c4b</crc32>
+    <sha1>9b75e4d32c9b9fce1e8834b6dc7aa63d97cb39e0</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_star_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_star.png</original>
+    <mtime>1657156418</mtime>
+    <size>8714</size>
+    <md5>4764b0130bfed0bac8e2f8d050f6b924</md5>
+    <crc32>a6bd2af9</crc32>
+    <sha1>a3e9bf4e898cf542de23ba39302e00a53db676fa</sha1>
+  </file>
+  <file name="major_arcana_strength.png" source="original">
+    <mtime>1657155860</mtime>
+    <size>3336061</size>
+    <md5>f63437ef0710085b236861ed0065cbf5</md5>
+    <crc32>57c0c917</crc32>
+    <sha1>e04213f704aa0d35050284c97db0c33d42bc61ea</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_strength_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_strength.png</original>
+    <mtime>1657156483</mtime>
+    <size>8353</size>
+    <md5>606618301ab4f6242b89700142b91c51</md5>
+    <crc32>d6cdac49</crc32>
+    <sha1>267ea9ec65ab4059f5ebab40a6a43d9f7c490d4e</sha1>
+  </file>
+  <file name="major_arcana_sun.png" source="original">
+    <mtime>1657155866</mtime>
+    <size>3777248</size>
+    <md5>b9f68ba5e34cb72c388ae5934308ed71</md5>
+    <crc32>e85c98e2</crc32>
+    <sha1>c67c966c3e222804684db164a63ab3c2e15d6751</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_sun_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_sun.png</original>
+    <mtime>1657156422</mtime>
+    <size>9823</size>
+    <md5>5fb5ee0530cd8efcc467ac29f78cc8df</md5>
+    <crc32>6c56c48b</crc32>
+    <sha1>928b6bb0a8b22d0815b57fdce07c55e5f0f941bc</sha1>
+  </file>
+  <file name="major_arcana_temperance.png" source="original">
+    <mtime>1657155875</mtime>
+    <size>3823789</size>
+    <md5>c11a37d9dae4d4fcc88db673c0994584</md5>
+    <crc32>8f9529d1</crc32>
+    <sha1>1934daf710eaa6916ef08c3e9a26fe3f399afdeb</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_temperance_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_temperance.png</original>
+    <mtime>1657156396</mtime>
+    <size>9235</size>
+    <md5>e45045011fe45371fe6c4ee977bbecf8</md5>
+    <crc32>ab6508a3</crc32>
+    <sha1>182ce209bfd1eb3825393c2d727df047be1de98c</sha1>
+  </file>
+  <file name="major_arcana_tower.png" source="original">
+    <mtime>1657155880</mtime>
+    <size>3008521</size>
+    <md5>21298ce02882c7284b9a950efb3b419a</md5>
+    <crc32>2bf8e564</crc32>
+    <sha1>d80ea95b957d9cad3cf33a741cf39c12efb61824</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_tower_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_tower.png</original>
+    <mtime>1657156398</mtime>
+    <size>9439</size>
+    <md5>d193b379cbd76e06dcd3fd7e780e2ecf</md5>
+    <crc32>3ae69d7b</crc32>
+    <sha1>00e7b05508be5887a204ff7abb7803aeee1fea41</sha1>
+  </file>
+  <file name="major_arcana_world.png" source="original">
+    <mtime>1657155887</mtime>
+    <size>3892575</size>
+    <md5>1f7c92ea8968274f5db8355331da58b6</md5>
+    <crc32>902d9c97</crc32>
+    <sha1>d9869a554cc32831ea8964f6e97dc31a5b4194c0</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="major_arcana_world_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>major_arcana_world.png</original>
+    <mtime>1657156431</mtime>
+    <size>9724</size>
+    <md5>ec6c2a59ee51e953bf4cedcd80c03e2a</md5>
+    <crc32>c071fcbc</crc32>
+    <sha1>f2314e64152fecd3078bf5ad30731ed9a3a9ddb5</sha1>
+  </file>
+  <file name="minor_arcana_cups_10.png" source="original">
+    <mtime>1657155946</mtime>
+    <size>4083521</size>
+    <md5>bf706c5d21bd115a9077391d2429cabf</md5>
+    <crc32>f60bc482</crc32>
+    <sha1>0094bdc359313dfae7ed3098e9d3c3f7c3ea789e</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_10_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_10.png</original>
+    <mtime>1657156433</mtime>
+    <size>8575</size>
+    <md5>30523e4b26a7546e2bd047ba1b1bfcea</md5>
+    <crc32>3a5e4555</crc32>
+    <sha1>c3f9b2af1d04339c6c622dc3cd0529f642fd4a49</sha1>
+  </file>
+  <file name="minor_arcana_cups_2.png" source="original">
+    <mtime>1657155894</mtime>
+    <size>3642772</size>
+    <md5>acd3cd187231b0ae40776bcb044335f6</md5>
+    <crc32>634e2392</crc32>
+    <sha1>3307c0d2cebe5687eda91507e80067a48f5b3879</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_2_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_2.png</original>
+    <mtime>1657156437</mtime>
+    <size>8872</size>
+    <md5>a8a30fff1840a5d6e88d7b3443ecaa39</md5>
+    <crc32>2a79744a</crc32>
+    <sha1>aa92e6a3a4d0f3fb740203a16c343b0401a972e0</sha1>
+  </file>
+  <file name="minor_arcana_cups_3.png" source="original">
+    <mtime>1657155906</mtime>
+    <size>3784834</size>
+    <md5>2ff9e6bbf1d225bcd20bda30f39fd52b</md5>
+    <crc32>8700bd79</crc32>
+    <sha1>9cc97d2d902e6645c0af29ff5c8b1e42e749b465</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_3_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_3.png</original>
+    <mtime>1657156440</mtime>
+    <size>8961</size>
+    <md5>c783cec1af3e91e9ba2d0d9db4c6aa62</md5>
+    <crc32>bc6fd98a</crc32>
+    <sha1>9ff254176f63277590c1355dbbb8676f4af5cfb8</sha1>
+  </file>
+  <file name="minor_arcana_cups_4.png" source="original">
+    <mtime>1657155911</mtime>
+    <size>3488878</size>
+    <md5>d56c6d089f632519d10cc939aa398044</md5>
+    <crc32>d16aa111</crc32>
+    <sha1>7b3451468fe4b386482bd6e6c1d784421ad9eb27</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_4_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_4.png</original>
+    <mtime>1657156443</mtime>
+    <size>8830</size>
+    <md5>54879891f7c824cd29d2b552be6bf6d7</md5>
+    <crc32>abc62bc2</crc32>
+    <sha1>af3e138eafdeed530123102704079fab2d639876</sha1>
+  </file>
+  <file name="minor_arcana_cups_5.png" source="original">
+    <mtime>1657155919</mtime>
+    <size>2720004</size>
+    <md5>19d47b7a5d4c8cf537fba7182d593b9e</md5>
+    <crc32>50cae662</crc32>
+    <sha1>418b96d3ddd0d1cfd135cf0257ffb060d183efa7</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_5_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_5.png</original>
+    <mtime>1657156445</mtime>
+    <size>7274</size>
+    <md5>2df00097ae1d145430c73851c8acd654</md5>
+    <crc32>831d1c2e</crc32>
+    <sha1>897ff9a8d49e0d540165c389007257282f0c619c</sha1>
+  </file>
+  <file name="minor_arcana_cups_6.png" source="original">
+    <mtime>1657155925</mtime>
+    <size>4046598</size>
+    <md5>fa0720f75b98b5f07d08edb438265de9</md5>
+    <crc32>32aefdb8</crc32>
+    <sha1>37984ee0f2314948b151022cf796da81224fd380</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_6_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_6.png</original>
+    <mtime>1657156449</mtime>
+    <size>9152</size>
+    <md5>93eb643452f157378ae713f68a9f49e3</md5>
+    <crc32>129fa25f</crc32>
+    <sha1>f3827c5d9be60f00686b6ca0fc26a6c3e50248d5</sha1>
+  </file>
+  <file name="minor_arcana_cups_7.png" source="original">
+    <mtime>1657155930</mtime>
+    <size>3275902</size>
+    <md5>51342e37ba59effb09d8e16643ba631c</md5>
+    <crc32>8c3549c1</crc32>
+    <sha1>f9b23112da264b69ba3feff4af0b40516be6d70d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_7_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_7.png</original>
+    <mtime>1657156453</mtime>
+    <size>9199</size>
+    <md5>5ec9372c2b93541dcd1178f86b362bd1</md5>
+    <crc32>953cea4a</crc32>
+    <sha1>0e3957ffb09c5a14ccc2586a85dc27fb17835b7d</sha1>
+  </file>
+  <file name="minor_arcana_cups_8.png" source="original">
+    <mtime>1657155935</mtime>
+    <size>3495094</size>
+    <md5>74825408272c51d0dec5f2005075d79c</md5>
+    <crc32>743931dc</crc32>
+    <sha1>6c2980ecbd249746cd515f8a5cf8d4fd89259905</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_8_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_8.png</original>
+    <mtime>1657156456</mtime>
+    <size>8220</size>
+    <md5>38af29234f77714c4968440cea764eae</md5>
+    <crc32>872f7119</crc32>
+    <sha1>4f3615870b2bb4a8f163ecfbbe3010cb898402da</sha1>
+  </file>
+  <file name="minor_arcana_cups_9.png" source="original">
+    <mtime>1657155941</mtime>
+    <size>3399983</size>
+    <md5>e21695008bea83dd016a75f77936207b</md5>
+    <crc32>efb97da8</crc32>
+    <sha1>367704c6cf054f1ed46c79840daa937b04712d59</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_9_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_9.png</original>
+    <mtime>1657156459</mtime>
+    <size>9218</size>
+    <md5>1e694a0e64ba778a674fba4afb0f471b</md5>
+    <crc32>3fa4d89d</crc32>
+    <sha1>f6731e4ce56ea4f0e82e004987b6e02d56a95ae1</sha1>
+  </file>
+  <file name="minor_arcana_cups_ace.png" source="original">
+    <mtime>1657155951</mtime>
+    <size>3469197</size>
+    <md5>6343a677a0579b8dfaee940c18dca0d0</md5>
+    <crc32>5ae1fba9</crc32>
+    <sha1>7f3eb8ae988e6efdcbe01c5c1214c8ff243effbf</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_ace_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_ace.png</original>
+    <mtime>1657156462</mtime>
+    <size>8375</size>
+    <md5>5ed725a67885bbb41fb3126bbe064ead</md5>
+    <crc32>a9be64b3</crc32>
+    <sha1>2966ddbeaff5567e80b30f0cd4b3e221bf304caf</sha1>
+  </file>
+  <file name="minor_arcana_cups_king.png" source="original">
+    <mtime>1657155956</mtime>
+    <size>3570953</size>
+    <md5>9ed4835c72d95696ad69eb178e357313</md5>
+    <crc32>c8100924</crc32>
+    <sha1>1e77c1780bf61aa07a72739fdde27e8c9cfff5aa</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_king_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_king.png</original>
+    <mtime>1657156465</mtime>
+    <size>8583</size>
+    <md5>8dd325af78320449c7b4d8657aec3dfc</md5>
+    <crc32>5d58813b</crc32>
+    <sha1>8f06b5e2e17ee634b15fdea61a6a86857bedebcf</sha1>
+  </file>
+  <file name="minor_arcana_cups_knight.png" source="original">
+    <mtime>1657155962</mtime>
+    <size>3761194</size>
+    <md5>8f419eb62269ceedee058baf8de029ea</md5>
+    <crc32>197b3dec</crc32>
+    <sha1>7787e9b27a1c44908fe6f84c626e3695d4864d05</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_knight_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_knight.png</original>
+    <mtime>1657156468</mtime>
+    <size>8735</size>
+    <md5>4b94f6fa2eb1699529ef7008e6d63945</md5>
+    <crc32>c746e297</crc32>
+    <sha1>ececcc9956ad835e7875663975140f57791578b1</sha1>
+  </file>
+  <file name="minor_arcana_cups_page.png" source="original">
+    <mtime>1657155967</mtime>
+    <size>3553869</size>
+    <md5>69e696b84e95f880b48359599056dccb</md5>
+    <crc32>e17c322b</crc32>
+    <sha1>f046cbdeba9da560761488c5d0255410586bb730</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_page_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_page.png</original>
+    <mtime>1657156471</mtime>
+    <size>8052</size>
+    <md5>f7be2f93467290be6f93ba1d68de0eb4</md5>
+    <crc32>c0d8eedf</crc32>
+    <sha1>bafaf49e2e396d735205726be3aa7849fb891758</sha1>
+  </file>
+  <file name="minor_arcana_cups_queen.png" source="original">
+    <mtime>1657155974</mtime>
+    <size>3609885</size>
+    <md5>052d21d0702b054a074446941280c661</md5>
+    <crc32>7171cd29</crc32>
+    <sha1>e204978a9ee549c2080bc9fff96785dbfec0be9b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_cups_queen_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_cups_queen.png</original>
+    <mtime>1657156474</mtime>
+    <size>9163</size>
+    <md5>1007041bde6b3152211b7599ba1d46bc</md5>
+    <crc32>998d28eb</crc32>
+    <sha1>a1a1945fe24a30fc1330f5ffb25b22a8e5cd68f7</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_10.png" source="original">
+    <mtime>1657156020</mtime>
+    <size>3935351</size>
+    <md5>2da38ca7a2eea29dbcf146dac9228564</md5>
+    <crc32>a6759915</crc32>
+    <sha1>a3338cd4d7fbaa6cdd434c920eb02acee2adba5b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_10_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_10.png</original>
+    <mtime>1657156477</mtime>
+    <size>10093</size>
+    <md5>819eba699bf91dab5f2deafd62ba7993</md5>
+    <crc32>15164df6</crc32>
+    <sha1>39d3ea8efc21f2de5c3ba975fc633978d2848f8c</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_2.png" source="original">
+    <mtime>1657155979</mtime>
+    <size>3838918</size>
+    <md5>86782410fb31cf942f7adb892c2258a4</md5>
+    <crc32>6e16fa36</crc32>
+    <sha1>a3d8b2f8a71af886d9ca82cafad74817e34e4ff0</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_2_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_2.png</original>
+    <mtime>1657156480</mtime>
+    <size>7836</size>
+    <md5>5455ebd383136b4d14cdcbccefa599bb</md5>
+    <crc32>a9925247</crc32>
+    <sha1>bcb2985d0f45463b6859323b8b301b117bfa2db3</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_3.png" source="original">
+    <mtime>1657155984</mtime>
+    <size>3665222</size>
+    <md5>7e3c9a4d1cba7b235ec8bf86188e31b5</md5>
+    <crc32>2e4535e3</crc32>
+    <sha1>bef4f25bc038f5c88805724dc94aa6796b5a0dec</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_3_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_3.png</original>
+    <mtime>1657156426</mtime>
+    <size>9735</size>
+    <md5>2cb3606804ba932e945d28d4e8e9147d</md5>
+    <crc32>6cffe7c4</crc32>
+    <sha1>822f4c7b909ac0cd27cfe7b3fb2f451eafebf20b</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_4.png" source="original">
+    <mtime>1657155989</mtime>
+    <size>2961418</size>
+    <md5>d38cc17563c63e5fbaaa37b2054e607a</md5>
+    <crc32>eb296659</crc32>
+    <sha1>a6f150bd741577e08dbc3fd1c79567ebcc6021bb</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_4_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_4.png</original>
+    <mtime>1657156559</mtime>
+    <size>7382</size>
+    <md5>a376809d590e207cbc2e3f32f1d637dd</md5>
+    <crc32>a5faf882</crc32>
+    <sha1>fd5732ebf4fe3947b23c1ea70a88240826c39bda</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_5.png" source="original">
+    <mtime>1657155995</mtime>
+    <size>3609991</size>
+    <md5>35106ac23d3a9778ca8a85a713494034</md5>
+    <crc32>44ec5762</crc32>
+    <sha1>8e82a88aba6a48414766921e3b4892b5f28e1021</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_5_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_5.png</original>
+    <mtime>1657156528</mtime>
+    <size>10188</size>
+    <md5>8471ce2d73f9f31408adad03e08e8084</md5>
+    <crc32>e6bf9d75</crc32>
+    <sha1>7f33170c861bedd5929332d39f9d027102bfdab5</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_6.png" source="original">
+    <mtime>1657156000</mtime>
+    <size>3434943</size>
+    <md5>00e123b85155a95179c0779d61961bd4</md5>
+    <crc32>69a9376b</crc32>
+    <sha1>39c06a99cf9fcf8d47222db65b6dace9070a7c76</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_6_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_6.png</original>
+    <mtime>1657156565</mtime>
+    <size>8430</size>
+    <md5>efcec3b73aa38ebbde35f05a815544ea</md5>
+    <crc32>60b72990</crc32>
+    <sha1>63a909be15f2922ffe94ceb782b41687ba62e817</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_7.png" source="original">
+    <mtime>1657156005</mtime>
+    <size>3682339</size>
+    <md5>17a5e0d35deaf2326eb915f17586f4bc</md5>
+    <crc32>1ce1dd8f</crc32>
+    <sha1>63aecfcd2a6b292ac15dcdba327465e18be854e9</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_7_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_7.png</original>
+    <mtime>1657156505</mtime>
+    <size>8687</size>
+    <md5>aa8a6abb3024b587d1011adea99d0ed3</md5>
+    <crc32>7aae71a2</crc32>
+    <sha1>a7521d366fb09a70fb78816afe403b813259b46a</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_8.png" source="original">
+    <mtime>1657156009</mtime>
+    <size>3430990</size>
+    <md5>7babd08beeb8d547444fa880a1a52f27</md5>
+    <crc32>4746d874</crc32>
+    <sha1>0b84692811d7dca7d22424806220b55b71b5efb3</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_8_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_8.png</original>
+    <mtime>1657156508</mtime>
+    <size>8008</size>
+    <md5>f9a056a916d5e795e912003fa18d4a3c</md5>
+    <crc32>f86af8bf</crc32>
+    <sha1>a327d1d2853f7a413e63314fe242228c2660d3d5</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_9.png" source="original">
+    <mtime>1657156014</mtime>
+    <size>3576929</size>
+    <md5>a2286d740bbe19671861ae8addc5df35</md5>
+    <crc32>f2af13ce</crc32>
+    <sha1>1c2c6524f8e275176b559f8db83d4a40a50b67b2</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_9_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_9.png</original>
+    <mtime>1657156511</mtime>
+    <size>9299</size>
+    <md5>5f60b3d8f0653ae0c46b6c5197253965</md5>
+    <crc32>4899b0eb</crc32>
+    <sha1>e69e81f34a089b6e438aaee2fe2e89c725528897</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_ace.png" source="original">
+    <mtime>1657156024</mtime>
+    <size>3315207</size>
+    <md5>b276350e3e819d2a31d0153603c41fbf</md5>
+    <crc32>93550883</crc32>
+    <sha1>d997c7b28a786e501db8bacfbda706274f82af96</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_ace_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_ace.png</original>
+    <mtime>1657156514</mtime>
+    <size>8162</size>
+    <md5>16940fa2659e4b81de1f510b7362bf65</md5>
+    <crc32>5050c744</crc32>
+    <sha1>950bfb2cf4da1b75c3aa5d132a78015873628047</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_king.png" source="original">
+    <mtime>1657156029</mtime>
+    <size>3429865</size>
+    <md5>e5dd6c1b8c5625cf835c73d0c60a101d</md5>
+    <crc32>f2cf1af5</crc32>
+    <sha1>34d921c0c3023c4a0ea3cfae2f99feab8f9a619a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_king_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_king.png</original>
+    <mtime>1657156517</mtime>
+    <size>9520</size>
+    <md5>be67165833a5e24a89d1fa09638a4951</md5>
+    <crc32>ac9e8511</crc32>
+    <sha1>4ae17fdd0ac433aeaaeaf1f5093176d40da7e884</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_knight.png" source="original">
+    <mtime>1657156034</mtime>
+    <size>3025381</size>
+    <md5>c7854947d1664124215d82b95790bd72</md5>
+    <crc32>94f83db1</crc32>
+    <sha1>46b6cebbafe20f98e69b75bdaefdb6cd781c5903</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_knight_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_knight.png</original>
+    <mtime>1657156520</mtime>
+    <size>8465</size>
+    <md5>a0c86d4ed8f9bf4e613a034d35793153</md5>
+    <crc32>7ade4424</crc32>
+    <sha1>f8ab5581876aabf2928330e131d83de5258f6613</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_page.png" source="original">
+    <mtime>1657156039</mtime>
+    <size>3301068</size>
+    <md5>75a5a4929b15f9a0b56129e23e5a95bf</md5>
+    <crc32>43872474</crc32>
+    <sha1>28c859506d366ca03f209dbdf625241bbf99dbdb</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_page_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_page.png</original>
+    <mtime>1657156498</mtime>
+    <size>8254</size>
+    <md5>dcaf046d3d3ee352b251ffecbc07060e</md5>
+    <crc32>7d8d93a3</crc32>
+    <sha1>10c50366b119ff4161f00ffc32dc973f45bd1813</sha1>
+  </file>
+  <file name="minor_arcana_pentacles_queen.png" source="original">
+    <mtime>1657156047</mtime>
+    <size>3847257</size>
+    <md5>33a9e90aeb795a806c25db76fd649faf</md5>
+    <crc32>32648ce9</crc32>
+    <sha1>d15c95a27bbcd268f1642088b1d7c8f11416dca3</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_pentacles_queen_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_pentacles_queen.png</original>
+    <mtime>1657156531</mtime>
+    <size>10087</size>
+    <md5>1d2497062603d3ff08c9213a350757e3</md5>
+    <crc32>7a556d4e</crc32>
+    <sha1>70bedb93f28169441925f2256e0314933b274acb</sha1>
+  </file>
+  <file name="minor_arcana_swords_10.png" source="original">
+    <mtime>1657156091</mtime>
+    <size>2870951</size>
+    <md5>05076ccc7c754e5f472451dda8a5c931</md5>
+    <crc32>bd08519d</crc32>
+    <sha1>35b59023a2e61606b0c62784fedec80b74b9f0bb</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_10_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_10.png</original>
+    <mtime>1657156495</mtime>
+    <size>8462</size>
+    <md5>2748a2bee7590fcccac5699ec3b78d52</md5>
+    <crc32>834be90b</crc32>
+    <sha1>1ba4e9282b598986f55c130e2a885838891c0bd1</sha1>
+  </file>
+  <file name="minor_arcana_swords_2.png" source="original">
+    <mtime>1657156052</mtime>
+    <size>3222282</size>
+    <md5>96fe7829a9c0a4ed54508ea31a89c171</md5>
+    <crc32>e95aacd3</crc32>
+    <sha1>57442b3cf5fb1eeb344f131a1bf50c394a15ba6f</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_2_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_2.png</original>
+    <mtime>1657156535</mtime>
+    <size>7560</size>
+    <md5>78a01453647b995d70de6d2359bb4e48</md5>
+    <crc32>533f367f</crc32>
+    <sha1>c32853f5d2fdc67216a414acb3210a8a2f48e9a7</sha1>
+  </file>
+  <file name="minor_arcana_swords_3.png" source="original">
+    <mtime>1657156057</mtime>
+    <size>2793396</size>
+    <md5>663b9ec848d067591f729a46e3cf8d56</md5>
+    <crc32>a6ca32b5</crc32>
+    <sha1>a0e68a2c84d63bd735ccac2aba90850739ec3cb1</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_3_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_3.png</original>
+    <mtime>1657156538</mtime>
+    <size>7853</size>
+    <md5>f0ba03638f7ad60fe509e5b5dae72c20</md5>
+    <crc32>9863cbfc</crc32>
+    <sha1>dc5ebf8d35099878600d5db640964fe342a4a63f</sha1>
+  </file>
+  <file name="minor_arcana_swords_4.png" source="original">
+    <mtime>1657156063</mtime>
+    <size>3329562</size>
+    <md5>adce2105d00f17ae236f419f7b4c348d</md5>
+    <crc32>aba47d5a</crc32>
+    <sha1>4e39872fc9ae37aa6d793e0743b1b5d183354176</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_4_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_4.png</original>
+    <mtime>1657156541</mtime>
+    <size>8494</size>
+    <md5>8a6f084fa30982cd36e0ab350f73e124</md5>
+    <crc32>88469c12</crc32>
+    <sha1>641d663d6cd9d3dd1a502bbd6cda0c1194c56aef</sha1>
+  </file>
+  <file name="minor_arcana_swords_5.png" source="original">
+    <mtime>1657156069</mtime>
+    <size>3732861</size>
+    <md5>f5f9eefd271715936eee9126ff440a21</md5>
+    <crc32>720c7a40</crc32>
+    <sha1>9db9091149ac8880a2822cd23a4d730ae3d05156</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_5_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_5.png</original>
+    <mtime>1657156544</mtime>
+    <size>8810</size>
+    <md5>3b989067f19f3338ce93bd1f4f82e62d</md5>
+    <crc32>eab747d1</crc32>
+    <sha1>084885d081f7f4a142a3e1805cb04b6a9d0d2cdf</sha1>
+  </file>
+  <file name="minor_arcana_swords_6.png" source="original">
+    <mtime>1657156073</mtime>
+    <size>3667386</size>
+    <md5>4c3bb679119b8dada454fe45cfd5a61c</md5>
+    <crc32>313b068b</crc32>
+    <sha1>c8d93323d6b400b8d1a0fca3994d19b05334fe9b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_6_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_6.png</original>
+    <mtime>1657156547</mtime>
+    <size>8101</size>
+    <md5>a147642b4898674d20b2254338c20ebc</md5>
+    <crc32>96644c47</crc32>
+    <sha1>8aa6e590de32a28e3f23a483c31ce0918fe1b1f5</sha1>
+  </file>
+  <file name="minor_arcana_swords_7.png" source="original">
+    <mtime>1657156078</mtime>
+    <size>3352107</size>
+    <md5>0a5cbade51ea379959ea5e2701dd9fb4</md5>
+    <crc32>3fb0d617</crc32>
+    <sha1>adb822d1b302a96436eef762eeb4a6c13ea05e72</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_7_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_7.png</original>
+    <mtime>1657156550</mtime>
+    <size>8204</size>
+    <md5>889ed647e28956bcb87e0bd04d1bc701</md5>
+    <crc32>9c9f4ca5</crc32>
+    <sha1>895e97dd7bdee678c42bdffd20c68e29c762fb93</sha1>
+  </file>
+  <file name="minor_arcana_swords_8.png" source="original">
+    <mtime>1657156083</mtime>
+    <size>3367070</size>
+    <md5>0713aa2667c8adcc2e9b24d6973655d0</md5>
+    <crc32>d23dd050</crc32>
+    <sha1>9ba4323c5aa667aea76ee2ffeedc78f7bff3719b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_8_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_8.png</original>
+    <mtime>1657156501</mtime>
+    <size>8231</size>
+    <md5>9cede5aceaa30ab7445e72ddff00b6e6</md5>
+    <crc32>5cd037ef</crc32>
+    <sha1>6089c613d8a359b44666836a2fde1d47eb93e2b5</sha1>
+  </file>
+  <file name="minor_arcana_swords_9.png" source="original">
+    <mtime>1657156087</mtime>
+    <size>3087368</size>
+    <md5>ca6d0e91fa07f2cd11695aaa3faa1c80</md5>
+    <crc32>133ab1fd</crc32>
+    <sha1>108a34b76cbc6d0a98b572f144d70c2442dcb2d8</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_9_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_9.png</original>
+    <mtime>1657156525</mtime>
+    <size>8844</size>
+    <md5>15189749c60a8af8bb569eba9ef95d20</md5>
+    <crc32>32a2e91c</crc32>
+    <sha1>a3fcba4e80d7bb1005458afba27acaafb608c485</sha1>
+  </file>
+  <file name="minor_arcana_swords_ace.png" source="original">
+    <mtime>1657156095</mtime>
+    <size>3186574</size>
+    <md5>1edaebecf21c3b89dcb5d369661e7852</md5>
+    <crc32>fd84c485</crc32>
+    <sha1>b694702fa57c01a0ba4a28c7eab0548d75e6ffc9</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_ace_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_ace.png</original>
+    <mtime>1657156553</mtime>
+    <size>8129</size>
+    <md5>013b615052edadb85b046415b53f82ff</md5>
+    <crc32>e967ea66</crc32>
+    <sha1>55b28b03a4cf76e701320b5120ee4cb6e0664748</sha1>
+  </file>
+  <file name="minor_arcana_swords_king.png" source="original">
+    <mtime>1657156106</mtime>
+    <size>3951680</size>
+    <md5>af895f6c2aec7fe396ef3bd9601ba991</md5>
+    <crc32>ead07d5d</crc32>
+    <sha1>9177cf267983076143b421c2d348ce38ba9936af</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_king_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_king.png</original>
+    <mtime>1657156587</mtime>
+    <size>9187</size>
+    <md5>aa85cf1377749fe16406ef99a8d7b837</md5>
+    <crc32>1756ddf9</crc32>
+    <sha1>4d10668fe6f4935b87ae6c17ae550ceedc0556e9</sha1>
+  </file>
+  <file name="minor_arcana_swords_knight.png" source="original">
+    <mtime>1657156111</mtime>
+    <size>3589768</size>
+    <md5>a9aeae47294b2aad22de5abfe70e01ff</md5>
+    <crc32>86e8fb82</crc32>
+    <sha1>9df4ac0d1bee772cc7910754fab9f223329a5c3b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_knight_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_knight.png</original>
+    <mtime>1657156568</mtime>
+    <size>9538</size>
+    <md5>892d205566a08213027363f521dc3045</md5>
+    <crc32>6dd4026f</crc32>
+    <sha1>55255458aee477320bad25213279ff0a53f836fd</sha1>
+  </file>
+  <file name="minor_arcana_swords_page.png" source="original">
+    <mtime>1657156115</mtime>
+    <size>3642533</size>
+    <md5>58b44425b552dcbae4367c5c89f2429a</md5>
+    <crc32>208ecc51</crc32>
+    <sha1>d0d7b4f91f82210bb509c078ebbe9f24f068af41</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_page_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_page.png</original>
+    <mtime>1657156571</mtime>
+    <size>8729</size>
+    <md5>ebdb3bc12e21f72487006526f30e3d92</md5>
+    <crc32>0860a1ef</crc32>
+    <sha1>eed31087b2676980f407c0845959090d638f157c</sha1>
+  </file>
+  <file name="minor_arcana_swords_queen.png" source="original">
+    <mtime>1657156119</mtime>
+    <size>3331326</size>
+    <md5>4cff75520c32d7fc12e1bf9f585b45c1</md5>
+    <crc32>75a730a2</crc32>
+    <sha1>a81f7f56d272b60f2d8883089b8746fa52999142</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_swords_queen_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_swords_queen.png</original>
+    <mtime>1657156574</mtime>
+    <size>8775</size>
+    <md5>a103e84f100dc2bdef4b43f58286d989</md5>
+    <crc32>aa2c7bd5</crc32>
+    <sha1>1ef2d0343f4efc86ad2716df10e9744e6581bb88</sha1>
+  </file>
+  <file name="minor_arcana_wands_10.png" source="original">
+    <mtime>1657156157</mtime>
+    <size>3469805</size>
+    <md5>6ef3ef1ec880b13c982b7aa1f59940e3</md5>
+    <crc32>eb0fb5ea</crc32>
+    <sha1>8ee9a8dc7511c954aa3eb24b3e77cadbf3a9d5b4</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_10_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_10.png</original>
+    <mtime>1657156578</mtime>
+    <size>8314</size>
+    <md5>5ec6dadf16b97dbb22073c4b09192e13</md5>
+    <crc32>a7ce1632</crc32>
+    <sha1>48fa1342500d8ea467b1dc04c79de7de6c55ab90</sha1>
+  </file>
+  <file name="minor_arcana_wands_2.png" source="original">
+    <mtime>1657156124</mtime>
+    <size>3310743</size>
+    <md5>fb66b683b5f8eb3dcf65190ce2efede6</md5>
+    <crc32>773db939</crc32>
+    <sha1>064a5571321ae51d9be3a6044faaf5bf1f355b63</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_2_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_2.png</original>
+    <mtime>1657156581</mtime>
+    <size>8123</size>
+    <md5>8fa22bd0993a059a2cb4d7c407e60701</md5>
+    <crc32>39e88184</crc32>
+    <sha1>e52d0fb23b2e2df4eb9dca9fa87a5bee207c760f</sha1>
+  </file>
+  <file name="minor_arcana_wands_3.png" source="original">
+    <mtime>1657156128</mtime>
+    <size>3996281</size>
+    <md5>e26172d4d98c50150269426acd954bc2</md5>
+    <crc32>29e5e2ab</crc32>
+    <sha1>2274d78749ffd0d3d470ff2da4ce98b3fca6ed90</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_3_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_3.png</original>
+    <mtime>1657156584</mtime>
+    <size>8133</size>
+    <md5>7ebb44cf9fe43d39cca5e8e0b42ffbbd</md5>
+    <crc32>092a3799</crc32>
+    <sha1>b32e0131e8af031a968f76886b82eae0ae6b458f</sha1>
+  </file>
+  <file name="minor_arcana_wands_4.png" source="original">
+    <mtime>1657156132</mtime>
+    <size>3348485</size>
+    <md5>238ee94cc747b0afa3b7761e6f0bc9b7</md5>
+    <crc32>c92415fd</crc32>
+    <sha1>4531530c3118e0ad37131cd722226b677978c1e9</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_4_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_4.png</original>
+    <mtime>1657156562</mtime>
+    <size>8616</size>
+    <md5>e8a093297490d97a4675105dbd77a6c7</md5>
+    <crc32>112c55c9</crc32>
+    <sha1>eaadad5897b3a46d79c600258529b2c9f2459e48</sha1>
+  </file>
+  <file name="minor_arcana_wands_5.png" source="original">
+    <mtime>1657156137</mtime>
+    <size>3596046</size>
+    <md5>4e956cb96d9b870eed64be59b45643ee</md5>
+    <crc32>5c93b296</crc32>
+    <sha1>b000f466b99f67cdefb6385c289430770fbc27ab</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_5_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_5.png</original>
+    <mtime>1657156595</mtime>
+    <size>8700</size>
+    <md5>00e9d9d43a8b2568c9d0d39dabf716fe</md5>
+    <crc32>e1ed8b9a</crc32>
+    <sha1>ee1566a87e76ce835a3be06db2665ed14aa18c65</sha1>
+  </file>
+  <file name="minor_arcana_wands_6.png" source="original">
+    <mtime>1657156141</mtime>
+    <size>3752178</size>
+    <md5>535ae29f180b82fcc368568b795225d7</md5>
+    <crc32>de8090dc</crc32>
+    <sha1>4406d9eacf49fd6691c2fa950502ddcec58b378f</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_6_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_6.png</original>
+    <mtime>1657156556</mtime>
+    <size>8982</size>
+    <md5>aabc801b8602551f68ffbadc798d5502</md5>
+    <crc32>1f57e177</crc32>
+    <sha1>5b4f6bd8abcb02e704766d1b815c9b672f311906</sha1>
+  </file>
+  <file name="minor_arcana_wands_7.png" source="original">
+    <mtime>1657156145</mtime>
+    <size>3262878</size>
+    <md5>0bba1e6a1569d3796e5bc831cff589dc</md5>
+    <crc32>3c1163ae</crc32>
+    <sha1>6fb6e3f8bd0acf920c0b7f7b97978ab2a8e61694</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_7_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_7.png</original>
+    <mtime>1657156597</mtime>
+    <size>8216</size>
+    <md5>441fe83c4bfade3fd82eb1cbce40e5ad</md5>
+    <crc32>9b289874</crc32>
+    <sha1>2a15d144540d03d19f4890a6e5e5b543161b1bd1</sha1>
+  </file>
+  <file name="minor_arcana_wands_8.png" source="original">
+    <mtime>1657156149</mtime>
+    <size>3278336</size>
+    <md5>43793fff904a6cb2d416773b528ce9bb</md5>
+    <crc32>3a5543d9</crc32>
+    <sha1>79edb19970ec2f106b53ba8a34848ac65dfc6c9c</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_8_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_8.png</original>
+    <mtime>1657156600</mtime>
+    <size>8355</size>
+    <md5>338a597d6056cb3792764dfc022829af</md5>
+    <crc32>6c4944d9</crc32>
+    <sha1>3d396112264c08fd9b61c7ec9e8a57517fb614be</sha1>
+  </file>
+  <file name="minor_arcana_wands_9.png" source="original">
+    <mtime>1657156153</mtime>
+    <size>3556659</size>
+    <md5>223eec019ccbfd62c77dfe7ec9a5a6e5</md5>
+    <crc32>df59539c</crc32>
+    <sha1>0e0963dba00f84bdfb7abdf94c60c522a8b5f39d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_9_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_9.png</original>
+    <mtime>1657156603</mtime>
+    <size>8723</size>
+    <md5>dacb035ad84b57f09a8c028d866f7319</md5>
+    <crc32>cf67451c</crc32>
+    <sha1>74c9fe01986cf6d8d3d98d340d98a989c5e05959</sha1>
+  </file>
+  <file name="minor_arcana_wands_ace.png" source="original">
+    <mtime>1657156161</mtime>
+    <size>3187160</size>
+    <md5>d144378990c594d2f5c0962cd82eefa5</md5>
+    <crc32>015a2abe</crc32>
+    <sha1>f97796a99d79d2a25ba8f8587e36da19bffb7a72</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_ace_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_ace.png</original>
+    <mtime>1657156605</mtime>
+    <size>8075</size>
+    <md5>7798a2e46e626e7a4c7cd42c4729ccea</md5>
+    <crc32>ff757a26</crc32>
+    <sha1>1503b886abc64f2f5fd0ebc651347434273bf698</sha1>
+  </file>
+  <file name="minor_arcana_wands_king.png" source="original">
+    <mtime>1657156166</mtime>
+    <size>4075373</size>
+    <md5>e10d457283009f568e684f34fbcb2e3d</md5>
+    <crc32>df268be1</crc32>
+    <sha1>983c22ecf8aba353c0d322f615083be8d91099aa</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_king_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_king.png</original>
+    <mtime>1657156608</mtime>
+    <size>9153</size>
+    <md5>51241b9407426a6bdfc875a647fe7046</md5>
+    <crc32>d8dd1248</crc32>
+    <sha1>7ba744f852cbc643ffbab469b10888bad5f5f476</sha1>
+  </file>
+  <file name="minor_arcana_wands_knight.png" source="original">
+    <mtime>1657156171</mtime>
+    <size>4153354</size>
+    <md5>0c50b4d472eaf22867614819c46210e5</md5>
+    <crc32>386809b3</crc32>
+    <sha1>8d3549058f807f1a90302b75948bc5c6011fa270</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_knight_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_knight.png</original>
+    <mtime>1657156611</mtime>
+    <size>9169</size>
+    <md5>68d36a3bcd9766222c059695ba924c3b</md5>
+    <crc32>70ce8ad4</crc32>
+    <sha1>fd051806a448660bd4d77dcfddf8c5f69077fd11</sha1>
+  </file>
+  <file name="minor_arcana_wands_page.png" source="original">
+    <mtime>1657156176</mtime>
+    <size>3996958</size>
+    <md5>eb0ecd6cab19ee098bd3c7159949de12</md5>
+    <crc32>5e78f7fe</crc32>
+    <sha1>0b421eebc6354840202fe67d21b10cf61a563ae9</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_page_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_page.png</original>
+    <mtime>1657156592</mtime>
+    <size>8433</size>
+    <md5>f61f01d025dae354d9d42f6c4bc18552</md5>
+    <crc32>8de74390</crc32>
+    <sha1>466969ec81820b7b5ba3bd83bb96afc6fa0d249e</sha1>
+  </file>
+  <file name="minor_arcana_wands_queen.png" source="original">
+    <mtime>1657156181</mtime>
+    <size>3934253</size>
+    <md5>1098c45357c7bf6349ff71cb52cac343</md5>
+    <crc32>88efa06d</crc32>
+    <sha1>53afbe8c2fdc8cd6902dfb42fbf5f1794e90901f</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="minor_arcana_wands_queen_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>minor_arcana_wands_queen.png</original>
+    <mtime>1657156614</mtime>
+    <size>9135</size>
+    <md5>fc960a77bc0f154d7b0a162fe4e78f39</md5>
+    <crc32>fcb7bcac</crc32>
+    <sha1>0cf32cf77f175a5d41ddb4d007ff1444a966290d</sha1>
+  </file>
+  <file name="rider-waite-tarot_archive.torrent" source="metadata">
+    <btih>bd447e45d65b51fdfd808f1f1841464267951445</btih>
+    <mtime>1657156712</mtime>
+    <size>40735</size>
+    <md5>673e18d0faf1f9ff16e0fd96e9106b3c</md5>
+    <crc32>fe442c8b</crc32>
+    <sha1>5d25e97aa585f9be97d787755c3730b38ad7abbe</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="rider-waite-tarot_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>152c52e614c915665963a3bb8fcf53da</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="rider-waite-tarot_meta.sqlite" source="original">
+    <mtime>1657156183</mtime>
+    <size>180224</size>
+    <md5>abc4820ec79b4d435df1f70b50e2f2a2</md5>
+    <crc32>2456fa3c</crc32>
+    <sha1>7aea536158d3a4f9178033fd554115bdd2280097</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="rider-waite-tarot_meta.xml" source="original">
+    <mtime>1657156218</mtime>
+    <size>938</size>
+    <md5>f850e9a2bba459fd1a57b007b3a790e2</md5>
+    <crc32>40a360e4</crc32>
+    <sha1>21163cf047aa969b2470c511d24e59d0f0935e5c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
